@@ -6,7 +6,7 @@
 [Latest Version - Download Center - Huawei Developer Alliance](https://developer.huawei.com/consumer/cn/download/)
 
 #### Installation
-Run the installer and follow the setup wizard.  
+Simply install directly.
 ![Installation Screenshot](/images//downLoad//1.webp)
 
 #### Emulator Setup
